@@ -1,0 +1,3 @@
+License selection pending review.
+
+Before publishing, confirm that you are authorized to distribute the pipeline code and every included reference sequence. Marker/reference sequence redistribution terms may differ from the code's license. Choose a license only after this review; do not treat this note as a software license.

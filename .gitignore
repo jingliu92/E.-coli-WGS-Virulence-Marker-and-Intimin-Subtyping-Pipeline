@@ -1,0 +1,24 @@
+# Input genomes and sequencing reads; retain this folder's instructions
+assembly/*
+!assembly/README.md
+*.fastq
+*.fastq.gz
+
+# Generated results
+blast_out/
+stxtyper_results/
+Serotype/
+Subtype/
+blast_presence_absence.tsv
+stx_matrix.tsv
+serotype.tsv
+combined.tsv
+*.raw.tsv
+
+# Python, OS, and editor files
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.env
+.venv/
